@@ -2,7 +2,7 @@
 
 This is the repository to the corresponding paper "NS4S: Neighborhood Search for Scheduling Problems Via Large Language Models". 
 
-This folder contains benchmark instances, optimal or high-quality solutions, and Gantt chart visualizations for the NS4S scheduling problems. These resources facilitate research and reproducibility for scheduling algorithm performance evaluation.
+This folder contains benchmark instances, optimal or high-quality solutions, and Gantt chart visualizations for the scheduling problems. These resources facilitate research and reproducibility for scheduling algorithm performance evaluation.
 
 ## Directory Structure
 
